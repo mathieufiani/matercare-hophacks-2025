@@ -10,7 +10,7 @@ import os
 # Initialize Gemini API client
 # -----------------------------
 from google import genai
-client = genai.Client(api_key="AIzaSyBwJ2qUSTNBtzVpNG89MqNuz9iZM654URk") 
+client = genai.Client(api_key="") 
 
 # -----------------------------
 # 1. CNN definition (same as training)
