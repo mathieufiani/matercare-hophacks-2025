@@ -1,0 +1,72 @@
+const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "https://api.matercare.com"
+
+export interface ChatMessage {
+  message_id: string
+  user_id: string
+  text: string
+  mood_label?: "calm" | "sad" | "anxious" | "neutral"
+  mood_conf?: number
+  lang: string
+  client_time: string
+  consents: {
+    affect_assist: boolean
+    store_history: boolean
+  }
+}
+
+export interface ChatResponse {
+  message_id: string
+  risk_level: "low" | "medium" | "high"
+  next_action: "reply" | "ask_screening" | "start_grounding" | "escalate"
+  reply_text: string
+  context_cards?: Array<{
+    title: string
+    summary: string
+    source: string
+    url: string
+  }>
+  screening?: {
+    ask_epds: boolean
+    question_id: number
+    question_text: string
+  }
+  audit: {
+    used_guardrail: boolean
+    retrieved_k: number
+  }
+}
+
+export const chatAPI = {
+  async sendMessage(message: ChatMessage): Promise<ChatResponse> {
+    const response = await fetch(`${API_BASE}/chat`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(message),
+    })
+
+    if (!response.ok) {
+      throw new Error("Failed to send message")
+    }
+
+    return response.json()
+  },
+}
+
+export const authAPI = {
+  async signIn(email: string, password: string) {
+    // Placeholder for authentication
+    return { success: true, user: { id: "user-1", email } }
+  },
+
+  async signUp(email: string, password: string) {
+    // Placeholder for registration
+    return { success: true, user: { id: "user-1", email } }
+  },
+
+  async forgotPassword(email: string) {
+    // Placeholder for password reset
+    return { success: true }
+  },
+}
