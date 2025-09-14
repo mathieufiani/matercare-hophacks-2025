@@ -34,7 +34,8 @@ def register():
     refresh_token = create_refresh_token(identity=identity)
 
     return jsonify({
-        "message": "User registered successfully",
+        "message": "Login successful",
+        "user": {"user_id": identity, "email": email},
         "access_token": access_token,
         "refresh_token": refresh_token
     }), 201
