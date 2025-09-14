@@ -1,6 +1,9 @@
+from datetime import timedelta
 from flask import Flask
 from flask_cors import CORS
 from dotenv import load_dotenv
+from flask_jwt_extended import JWTManager
+
 
 from src.config import settings
 from src.extensions import db, migrate
@@ -10,7 +13,7 @@ load_dotenv()
 def create_app():
     app = Flask(__name__)
 
-    allowed_origins = ["http://localhost:3000", "http://127.0.0.1:3000"]
+    allowed_origins = ["http://localhost:3000", "http://127.0.0.1:3000","https://web.postman.com"]
 
     CORS(
         app,
@@ -26,10 +29,17 @@ def create_app():
     app.config["SECRET_KEY"] = settings.SECRET_KEY
     app.config["SQLALCHEMY_DATABASE_URI"] = settings.SQLALCHEMY_DATABASE_URI
     app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+    
+    # ✅ JWT config
+    app.config["JWT_SECRET_KEY"] = "replace-this-with-a-strong-secret"  # env var in prod!
+    app.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(minutes=30)
+    app.config["JWT_REFRESH_TOKEN_EXPIRES"] = timedelta(days=7)
 
     # Init extensions
     db.init_app(app)
+    JWTManager(app)
     migrate.init_app(app, db)
+    
 
     # Import models so Alembic / create_all can discover them
     with app.app_context():
