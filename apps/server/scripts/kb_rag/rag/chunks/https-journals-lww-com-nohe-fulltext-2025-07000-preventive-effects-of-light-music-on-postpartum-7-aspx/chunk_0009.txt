@@ -1,0 +1,14 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Observation Indicators
+START: 12285
+END: 14755
+
+Physiological Outcomes
+Salivary cortisol and alpha-amylase measurement: Saliva was collected between 07:00 and 08:00 a.m. to control for diurnal variation. Participants were asked to refrain from eating, drinking, or brushing their teeth for 30 minutes prior to sampling. Saliva samples were centrifuged at 3000 × g for 15 minutes (Eppendorf 5430R, Germany) and stored at −80°C until analysis. Salivary cortisol levels were quantified using enzyme-linked immunosorbent assay using a high-sensitivity salivary cortisol kit (Salimetrics, Catalog No. 1-3002, USA). The absorbance was measured at 450 nm, with 620 nm as the reference wavelength, using a SpectraMax M5 microplate reader (Molecular Devices, USA). The assay has a lower limit of sensitivity of 0.007 µg/dL, with intra-assay coefficients of variation <7% and inter-assay coefficients of variation <10%. Salivary alpha-amylase (sAA) activity was analyzed using kinetic assays on the same samples. After thawing, 20 µL of saliva was mixed with 100 µL of substrate solution (α-amylase FS Kit, DiaSys Diagnostic Systems GmbH, Germany) containing 4,6-ethylidene-G7PNP. Absorbance at 405 nm was monitored every 30 seconds for 5 minutes using a UV-1800 spectrophotometer (Shimadzu Corporation, Japan). Enzyme activity (U/mL) was calculated based on the rate of substrate hydrolysis. Laboratory personnel analyzing salivary samples were blinded to group allocation to prevent measurement bias.
+
+Breastfeeding Efficacy
+Exclusive breastfeeding (EBF) was defined as infant nutrition derived solely from breast milk, without formula supplementation. EBF rates at 3 days and 6 weeks postpartum were calculated based on maternal self-reports.
+
+Quality of Life
+Quality of life was assessed using the World Health Organization Quality of Life Brief Version (WHOQOL-BREF) scale, with a Cronbach’s α = 0.89.[22,23] The 26-item tool evaluates four domains: physical health, psychological well-being, social relationships, and environmental factors. Each item was rated on a 5-point Likert scale ranging from 1 (very poor) to 5 (very good). The scoring for each domain was calculated as follows: the mean score for each domain was obtained by summing the item scores within the domain and dividing by the number of items. The mean score was then multiplied by 4 to obtain the domain score. The domain scores were then transformed into a 0 to 100 scale using the following formula: Transformed score = [(Domain score − Minimum possible score)/(Maximum possible score − Minimum possible score)] × 100. A higher score indicates better functioning.

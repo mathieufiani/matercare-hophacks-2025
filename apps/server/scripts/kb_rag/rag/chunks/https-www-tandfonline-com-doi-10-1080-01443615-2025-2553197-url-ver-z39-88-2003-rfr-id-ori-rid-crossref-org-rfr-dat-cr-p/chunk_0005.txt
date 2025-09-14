@@ -1,0 +1,36 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Methods
+START: 8326
+END: 11075
+
+JOUrNAL OF Obstetrics AND GyNAecOLOGy 3
+Methods
+Design
+this cross-sectional, multi-centre study is part of the swedish arm of the international survey of
+childbirth-related trauma (iNtersect 2023).
+Procedure
+the study includes participants from five maternity clinics in southern sweden. the clinics were located
+in cities of varying sizes and sociodemographic characteristics. the inclusion criteria were mothers aged
+18 years or older who had given birth to a living baby between 6 and 16 weeks prior. Following ethical
+and managerial approval, the authors screened for eligibility and subsequently received the personal
+security numbers of all women who met the inclusion criteria. Out of all these women, 2000 were ran-
+domly selected and sent an invitation letter to participate. the invitation letter contained information
+about the study, a personal identification code, and a link to a digital online questionnaire. by entering
+their personal code on the first page of the survey, participants provided their digital written informed
+consent to participate in the study. A reminder, including a printed version of the questionnaire, was
+sent to those who had not responded within three weeks. Participants who completed the printed ques-
+tionnaire provided their written informed consent via a signed consent form. Data were collected
+between september 2021 and January 2022.
+the survey consisted of 116 questions, including sociodemographic and obstetric variables (age, par-
+ity, mode of birth, educational level and income), a question on trauma history, and validated instru-
+ments to measure PPD, PP-PtsD, PP-Ptss and PP-FOc. We obtained permissions to use the instruments
+in this study.
+Trauma history
+Previous trauma was measured using the trauma checklist from the Post-traumatic stress Diagnostic
+scale, which includes a range of traumatic events such as severe diseases, physical assault, sexual abuse,
+experiences of military conflicts, childhood abuse, grave accidents and natural disasters (Foa et al. 1997).
+Participants indicated whether they had experienced each trauma type prior to the current childbirth
+and could add any self-defined trauma not listed on the scale.
+in addition, trauma related specifically to previous childbirth experiences was assessed separately with
+the question: ‘Did you experience the second/any of the other births as traumatic?’.

@@ -1,0 +1,101 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Results
+START: 18781
+END: 22849
+
+When stratifying the total sample based on parity, primiparous women with a history of trauma had a
+significantly higher proportion of PPD and PP-PtsD compared to primiparas without trauma: 24% (n = 32)
+Table 1. clinical and sociodemographic characteristics of participants with and without a history of trauma.
+total,
+n = 619
+History of trauma,
+n = 298
+no history of trauma,
+n = 321
+age
+Mean age (±sd) 32.8 (±4.49) 33.5 (±4.62) 32.1 (±4.26)
+childbirth, n (%)
+Primiparous 336 (54) 133
+(40% of primipara)
+203
+(60% of primipara)
+Multiparous 283 (46) 165
+(58% of multipara)
+118
+(42% of multipara)
+Mode of birth, n (%)
+Vaginal birth 458 (74) 223 (75) 235 (73)
+Vacuum extraction 48 (8) 17 (6) 31 (10)
+emergency caesarean 71 (12) 33 (11) 38 (12)
+Planned caesarean 42 (7) 25 (8) 17 (5)
+education, n (%)
+did not go to school 1 (0.2) 1 (0.3) 0
+compulsory school 7 (1) 2 (0.7) 5 (2)
+secondary school 113 (18) 49 (17) 64 (20)
+university degree 494 (80) 245 (83) 249 (78)
+income, n (%)
+below average 30 (5) 11 (4) 19 (6)
+around average 336 (55) 163 (55) 173 (54)
+above average 248 (40) 122 (41) 126 (39)
+sd: standard deviation.
+Table 2. reported types of traumas among women with a history of trauma.
+type of previous trauma frequency, n Percentage, %
+Previous traumatic birth 128 20.7
+life-threatening disease 75 12.1
+sexual abuse 72 11.6
+accident 51 8.2
+childhood abuse 41 6.6
+Physical abuse 39 6.3
+other self-reported trauma 38 6.1
+Military conflict 8 1.3
+natural disaster 8 1.3
+Table 3. occurrence of diagnoses and scoring of postnatal depression, posttraumatic stress and severe fear of childbirth
+in the total sample and in participants with history of trauma and controls.
+total sample,
+N = 619
+History
+of trauma,
+n = 298
+no history
+of trauma,
+n = 321
+sig
+(p)
+Postnatal diagnosis according to cut off or diagnostic criteria
+PPd, n (%) 83 (13.4) 57 (19.1) 26 (8.1) <.001
+PP-Ptsd, n (%) 23 (3.7) 16 (5.4) 7 (2.2) .036
+severe PP-foc, n (%) 71 (11.5) 38 (12.8) 33 (10.3) .322
+Postnatal scoring, continuous scales
+PPd, mean (sd) 6.2 (5.2) 7.2 (5.6) 5.3 (4.5) <.001
+PP-Ptss, mean (sd) 7.9 (8.7) 9.5 (9.4) 6.5 (7.8) <.001
+PP-foc, mean (sd) 50.4 (29.0) 52.9 (29.7) 48.1 (28.2) .042
+sd: standard deviation; PPd: postnatal depression; PP-Ptsd: postnatal post-traumatic stress disorder; PP-foc: postnatal fear of childbirth.
+6 H. GrUNDstrÖM et AL.
+versus 10% (n = 21) for PPD (p = .001), and 9% (n = 12) versus 3% (n = 6) for PP-PtsD (p = .024). similarly,
+trauma-exposed primiparas had higher mean scores of PPD and PP-Ptss compared to non-exposed prim-
+iparas: mean 8 (sD ± 6) versus mean 6 (sD ± 5) (p = .002) for PPD and mean 12 (sD ± 11) versus mean
+8 (sD ± 9) for PP-Ptss (p = <.001). However, there were no significant differences in number of partici-
+pants fulfilling the diagnostic criteria or mean scores for PP FOc between the two groups.
+considering multiparous women, our results show a significantly higher proportion of those with a
+history of trauma meeting the diagnostic criteria for PPD compared to those without trauma: 15% (n = 25)
+versus 4% (n = 5) (p = .003). in addition, when analysing the mean scores on each instrument, multipa-
+rous women with a history of trauma scored significantly higher on all three instruments: mean 7 (sD ± 5)
+versus mean 4 (sD ± 4) (p = <.001), for PPD mean 8 (sD ± 7) versus mean 4 (sD ± 5) (p = <.001) for
+PP-Ptss, and mean 51 versus mean 40 (p = <.001) for PP-FOc.these findings are summarised in table 4.
+the univariate regression analyses identified several determinants that were significant and used in
+the subsequent multivariable regressions. History of trauma was associated with higher PPD scores
+(β = 1.92, 95% ci [1.11–2.72],p = <.001), while increasing age (β = −0.14, 95% ci [−0.23 to −0.48],
+p = .003), and parity (β = −0.97, 95% ci [−1.78 to −0.15], p = .020) were associated with lower PPD scores.
+For PP-Ptss and PP-FOc, only history of trauma and parity emerged as significant predictors. History
+of trauma was significantly associated with increased PP-Ptss (β = 3.07, 95%ci [1.70–4.44], p = <.001)
+and higher PP-FOc scores (β = 4.90, 95% ci [0.18–9.61],p = .042). Parity was associated with lower
+PP-Ptss (β = −3.32, 95% ci [−4.69 to −1.94],p = <.001) and PP-FOc scores (β = −8.41, 95% ci [−13.10
+to −3.72], p = <.001).
+the results of the multiple regression analyses revealed that previous trauma had a significant and
+independent influence heightening the score of all three outcomes: PPD (β = 2.31, 95% ci [1.51–3.13],
+p = <.001), PP-Ptss (β = 3.82, 95% ci [2.46–5.18], p = <.001) and PP-FOc (β = 6.72, 95% ci 1.98–11.47],
+p = .006). increasing age had a low influence on PPD (β = −0.15, 95% ci [−0.24 to −0.05], p = .002), while
+having given birth before was slightly protective against PPD (β = −1.01, 95%ci [−1.86 to −0.18],
+p = .017). being multiparous was found to be protective against PP-Ptss (β = −4.03, 95% ci [−5.40 to
+−2.67], p = <.001) and PP-FOc (β = −9.68, 95% ci [−14.43 to −4.93], p = <.001).

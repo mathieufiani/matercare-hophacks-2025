@@ -1,0 +1,27 @@
+URL: https://findtreatment.gov/
+SOURCE: findtreatment.gov
+SECTION: main-cont
+START: 1639
+END: 2685
+
+Facilities may request additions or changes to their information by sending an e-mail to FindTreatment@samhsa.hhs.gov, by calling the Behavioral Health Services Information System (BHSIS) Project Office at 1-833-888-1553 (Mon-Fri 8 a.m. - 6 p.m. ET), or by electronic form submission using the FindTreatment.gov online application form (intended for additions of new facilities). Please complete this application form to request that your facility be added to FindTreatment.gov. Find instructions and more information regarding this form.
+
+Video Tutorials
+Visit our playlist for instructional videos on various aspects of using FindTreatment.gov.
+
+FindTreatment.gov Overview
+View in a Map
+Print Search Results
+Register a New Facility
+Download Search Results
+Person watching video tutorials
+person writing prescription
+Other Treatment Resources
+Buprenorphine Practitioners
+Find practitioners and treatment programs providing buprenorphine for opioid addiction (heroin or pain relievers).
+
+Opioid Treatment Programs
+Find programs providing methadone for the treatment of opioid addiction (heroin or pain relievers).
+
+Widgets
+A widget is an online tool that can be easily added to a blog or website. Add a widget to your blog or website to allow users to quickly find substance use or mental health treatment facilities in a specific location.

@@ -1,0 +1,14 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Materials and Methods
+START: 4334
+END: 5885
+
+Materials and Methods
+Study Design
+A total of 153 primiparous women were assessed for eligibility between June 2022 and June 2024 at the Affiliated Suzhou Hospital of Nanjing University Medical School. Among them, 5 were excluded due to carrying twins, and 28 were excluded due to incomplete data. Ultimately, 120 cases were enrolled in the final analysis. The participants were divided into two groups based on the postpartum nursing methods they received. Those who received standard care were classified into the standard care group (n = 58), and those who received light music therapy were classified into the music therapy group (n = 62). Two independent researchers reviewed electronic health records and follow-up questionnaires to ensure data consistency, and discrepancies were resolved through discussion.
+
+The study protocol received approval from the Ethics Committee of the Affiliated Suzhou Hospital of Nanjing University Medical School (202200156SZKJCYY). Informed consent was obtained in writing by all participants. This study was conducted in accordance with the ethical principles of the Declaration of Helsinki.[13]
+
+Sample Size Calculation
+The sample size estimation was based on a post hoc power analysis using the primary outcome of the Edinburgh Postnatal Depression Scale (EPDS) score. A previous study indicated an average EPDS decrease of 2.1 points [standard deviation (SD) = 2.4] in the standard care group.[14] Assuming a clinically meaningful between-group difference of 1.5 points for music therapy, a power analysis was conducted using G*Power 3.1 (Heinrich-Heine-Universität Düsseldorf, German) with a two-tailed independent t-test (α = 0.05, 1 − β = 0.80). The formula was n = [(Zα/2 + Zβ)2 × 2 × σ2]/δ2, where σ represents estimated variance, and δ represents effect size. The calculation result suggested a minimum requirement of 52 participants per group. The final study included 62 participants in the standard care group and 58 cases in the music therapy group, and this threshold was exceeded to provide adequate statistical power.

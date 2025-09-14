@@ -1,0 +1,102 @@
+URL: https://www.scielo.br/j/reeusp/a/MH33CqQw6HRs7tsFDrwyWdr/?lang=en
+SOURCE: www.scielo.br
+SECTION: REFERENCES
+START: 37301
+END: 40125
+
+REFERENCES
+1.Brasil. Ministério da Saúde. Depressão pós-parto [Internet]. Brasília: Ministério da Saúde; 2023 [cited 2023 May 9]. Available from: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao-pos-parto#
+» https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao-pos-parto#
+2.Robbins C, Ko J, D’Angelo D, Salvesen von Essen B, Bish C, Kroelinger C, et al. Timing of postpartum depressive symptoms. Prev Chronic Dis. 2023;20:230107. doi: http://doi.org/10.5888/pcd20.230107. PubMed PMID: 37943725.
+» https://doi.org/10.5888/pcd20.230107
+3.Suarez A, Shraibman L, Yakupova V. Long-term effects of maternal depression during postpartum and early parenthood period on child socioemotional development. Children. 2023;10(10):1718. doi: http://doi.org/10.3390/children10101718. PubMed PMID: 37892381.
+» https://doi.org/10.3390/children10101718
+4.Yang J, Lin X, Guo Q, Wang C, Yang R, Zhang J, et al. Mediating effect of mindfulness level on the relationship between marital quality and postpartum depression among primiparas. World J Clin Cases. 2023;11(12):2729–39. doi: http://doi.org/10.12998/wjcc.v11.i12.2729. PubMed PMID: 37214570.
+» https://doi.org/10.12998/wjcc.v11.i12.2729
+5.Wang Z, Liu J, Shuai H, Cai Z, Fu X, Liu Y, et al. Mapping global prevalence of depression among postpartum women. Transl Psychiatry. 2021;11(1):543. doi: http://doi.org/10.1038/s41398-021-01663-6. PubMed PMID: 34671011.
+» https://doi.org/10.1038/s41398-021-01663-6
+6.Theme Fa MM, Ayers S, Gama SGN, Leal MC. Factors associated with postpartum depressive symptomatology in Brazil: the Birth in Brazil. J Affect Disord. 2016;194:159–67. doi: http://doi.org/10.1016/j.jad.2016.01.020. PubMed PMID: 26826865.
+» https://doi.org/10.1016/j.jad.2016.01.020
+7.Motrico E, Domínguez-Salas S, Rodríguez-Domínguez C, Gómez-Gómez I, Rodríguez-Muñoz MF, Gómez-Baya D. The impact of the COVID-19 pandemic on perinatal depression and anxiety: a large cross-sectional study in Spain. Psicothema. 2022;34(2):200–8. doi: http://doi.org/10.7334/psicothema2021.380. PubMed PMID: 35485532.
+» https://doi.org/10.7334/psicothema2021.380
+8.Galletta MAK, Oliveira AMDSS, Albertini JGL, Benute GG, Peres SV, Brizot ML, et al. Postpartum depressive symptoms of Brazilian women during the COVID-19 pandemic measured by the Edinburgh Postnatal Depression Scale. J Affect Disord. 2022;296:577–86. doi: http://doi.org/10.1016/j.jad.2021.09.091. PubMed PMID: 34606803.
+» https://doi.org/10.1016/j.jad.2021.09.091
+9.World Health Organization. WHO guide for integration of perinatal mental health in maternal and child health services [Internet]. Geneva: WHO; 2022 [cited 2022 Oct 28]. Available from: https://www.who.int/publications/i/item/9789240057142
+» https://www.who.int/publications/i/item/9789240057142
+10.World Health Organization. Maternal mental health [Internet]. Geneva: WHO; 2021 [cited 2022 Sept 30]. Available from: https://www.who.int/teams/mental-health-and-substance-use/maternal-mental-health
+» https://www.who.int/teams/mental-health-and-substance-use/maternal-mental-health
+11.Silva JFDA, Nascimento MFC, Silva AF, Oliveira PS, Santos EA, Ribeiro FMSS, et al. Intervenções do enfermeiro na atenção e prevenção da depressão puerperal. Rev Enferm UFPE. 2020;14:e245024. doi: http://doi.org/10.5205/1981-8963.2020.245024.
+» https://doi.org/10.5205/1981-8963.2020.245024
+12.Silva MRD, Krebs VA, Bellotto PCB, Bravo AF, Campos PM, Abrão R. A atuação da enfermagem frente ao risco de depressão pós-parto. Res Soc Dev. 2022;11(8):e54611831227. doi: http://doi.org/10.33448/rsd-v11i8.31227.
+» https://doi.org/10.33448/rsd-v11i8.31227
+13.Arefadib N, Cooklin A, Nicholson J, Shafiei T. Postnatal depression and anxiety screening and management by maternal and child health nurses in community settings: a scoping review. Midwifery. 2021;100:103039. doi: http://doi.org/10.1016/j.midw.2021.103039. PubMed PMID: 34058681.
+» https://doi.org/10.1016/j.midw.2021.103039
+14.Avila Quevedo L, Scholl CC, Matos MB, Silva RA, Cunha Coelho FM, Pinheiro KAT, et al. Suicide risk and mood disorders in women in the postpartum period: a longitudinal study. Psychiatr Q. 2021;92(2):513–22. doi: http://doi.org/10.1007/s11126-020-09823-5. PubMed PMID: 32812142.
+» https://doi.org/10.1007/s11126-020-09823-5
+15.Bazoukis X, Eskitzis P, Orovou E, Arampatzi C, Spyropoulou A. Suicides and suicidal ideation during the perinatal period: clinical and demographic data. Int J Innov Res Med Sci. 2022;7(12):717–25. doi: http://doi.org/10.23958/ijirms/vol07-i12/1564.
+» https://doi.org/10.23958/ijirms/vol07-i12/1564
+16.Polit DF, Beck CT. Fundamentos de pesquisa em enfermagem: avaliação de evidências para a prática da enfermagem. 9. ed. Porto Alegre: Artmed; 2019.
+17.Perrenoud P. Construir as competências desde a escola. Porto Alegre: Artmed; 1999.
+18.Rodrigues TDDFF, Oliveira GS, Santos JA. As pesquisas qualitativas e quantitativas na educação. Revista Prisma. 2021 [cited 2022 Sept 30];2(1):154–174. Available from: https://revistaprisma.emnuvens.com.br/prisma/article/view/49.
+» https://revistaprisma.emnuvens.com.br/prisma/article/view/49.
+19.Oliveira GS, Cunha AMO, Cordeiro EM, Saad NS. Grupo Focal: uma técnica de coleta de dados em uma pesquisa qualitativa? Cadernos da FUCAMP. 2020 [cited 2022 Sept 30];19(41):1–13. Available from: https://revistas.fucamp.edu.br/index.php/cadernos/article/view/2208
+» https://revistas.fucamp.edu.br/index.php/cadernos/article/view/2208
+20.Pasquali L. Validade dos testes psicológicos: será possível reencontrar o caminho? Psicol Reflex Crit. 2000;13(3):395–411. doi: http://doi.org/10.1590/S0102-37722007000500019.
+» https://doi.org/10.1590/S0102-37722007000500019
+21.Bardin L. Análise de conteúdo. 1. ed. São Paulo: Edições 70; 2016.
+22.Lewis NL. Developing a hospital-based postpartum depression education intervention for perinatal nurses. J Nurses Prof Dev. 2020;36(1):7–11. doi: http://doi.org/10.1097/NND.00000000000 00595. PubMed PMID: 31738188.
+» https://doi.org/10.1097/NND.0000000000000595
+23.Antúnez Ortigosa M, Martín Narváez N, Casilari Floriano JC, Mérida de la Torre FJ. Postpartum Depression, analysis of risk factors and nursing intervention. Enferm Cuidándote. 2022;5(3):19–29. doi: http://doi.org/10.51326/ec.5.3.2558670.
+» https://doi.org/10.51326/ec.5.3.2558670
+24.Januário TGFM, Varela LD, Oliveira KNS, Faustino RDS, Pinto AGA. Escuta e valorização dos usuários: concepções e práticas na gestão do cuidado na Estratégia Saúde da Família. Cien Saude Colet. 2023;28(8):2283–90. doi: http://doi.org/10.1590/1413-81232023288.05952023. PubMed PMID: 37531536.
+» https://doi.org/10.1590/1413-81232023288.05952023
+25.Hernanda R AI, Pamungkasari EP, Prasetya H. Effect of home visit by community health cadre on postpartum depression: meta-analysis. J Matern Child Health. 2023;8(4):460–71. doi: http://doi.org/10.26911/thejmch.2023.08.04.08.
+» https://doi.org/10.26911/thejmch.2023.08.04.08
+26.Monteschio LVC, Marcon SS, Nass EMA, Bernardy CCF, Corrêa ÁCP, Ferreira PC, et al. Retenção de peso pós-parto em mulheres assistidas no serviço público de saúde: estudo de coorte. Rev Baiana Enferm. 2021;35. doi: http://doi.org/10.18471/rbe.v35.43026.
+» https://doi.org/10.18471/rbe.v35.43026
+27.Tabb K, Bentley B, Leano M, Simonovich S, Nidey N, Ross K, et al. Home visiting as an equitable intervention for perinatal depression: a scoping review. Front Psychiatry. 2022;13:826673. doi: http://doi.org/10.3389/fpsyt.2022.826673. PubMed PMID: 35370817.
+» https://doi.org/10.3389/fpsyt.2022.826673
+28.Bianchi CS, Marassi F, Felzener MCM. Análise da relação entre a depressão pós-parto e a saúde mental da mulher. Braz J Health Rev. 2024;7(1):3304–17. doi: http://doi.org/10.34119/bjhrv7n1-266.
+» https://doi.org/10.34119/bjhrv7n1-266
+29.Vasconcelos AF, Dadoo K, De Lira DR, Gonçalves LKCBC, Dias MOM, Pereira MS, et al. Assistência à mulher com depressão pós-parto na atenção primária: uma revisão integrativa. Braz J Health Rev. 2023;6(6):28785–95. doi: http://doi.org/10.34119/bjhrv6n6-173.
+» https://doi.org/10.34119/bjhrv6n6-173
+30.Nascimento LAS, Sousa VP, Sousa PMLS. A assistência de enfermagem na depressão pós-parto. Rev Iberoam Humanid Ciênc Educ. 2021;7(9):1381–92. doi: http://doi.org/10.51891/rease.v7i9.2366.
+» https://doi.org/10.51891/rease.v7i9.2366
+31.Monteiro MGA, Azevedo EB, Lima MKS, Barbosa HCV, Barbosa JCG, Cerqueira ACD. Consulta de enfermagem em puericultura na perspectiva de mães atendidas pela estratégia saúde da família. Rev Baiana Enferm. 2020;34. doi: http://doi.org/10.18471/rbe.v34.37945.
+» https://doi.org/10.18471/rbe.v34.37945
+32.Almutairi HA, Alyousef SM, Alhamidi SA, Almoammar DN. Exploring the healthcare services’ contribution to reducing postpartum depression. SAGE Open Nurs. 2023;9:23779608231171780. doi: http://doi.org/10.1177/23779608231171780. PubMed PMID: 37181734.
+» https://doi.org/10.1177/23779608231171780
+33.Samy H, Sabry H. Knowledge and attitude towards postpartum depression among nurses working at family health care centers in Giza Governorate: impact of educational intervention program. Egypt J Hosp Med. 2024;97(1). doi: http://doi.org/10.21608/ejhm.2024.363741.
+» https://doi.org/10.21608/ejhm.2024.363741
+34.Dartey AF, Lotse CW, Tackie V, Aggrey B, Kyerewaah EA, Abu P, et al. A phenomenological study on the experiences of women suffering from postpartum depression in the Ho Municipality, Ghana. SAGE Open. 2024;14(3):21582440241271928. doi: http://doi.org/10.1177/21582440241271928.
+» https://doi.org/10.1177/21582440241271928
+35.Brasil. Ministério da Saúde. Portaria nº 198/GM, de 13 de fevereiro de 2004. Institui a Política Nacional de Educação Permanente em Saúde. Diário Oficial da União; Brasília; 13 fev 2004 [cited 2023 Jul 4]; Seção 1. Available from: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/MatrizesConsolidacao/comum/13150.html.
+» https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/MatrizesConsolidacao/comum/13150.html.
+Edited by
+ASSOCIATE EDITOR
+Thiago da Silva Domingos
+Publication Dates
+ Publication in this collection
+08 Sept 2025  Date of issue
+2025
+History
+ Received
+28 Jan 2025  Accepted
+02 July 2025
+Creative Common - by 4.0 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+vertical_align_top show_chart 
+more_horiz
+location_on
+Universidade de São Paulo, Escola de Enfermagem
+Av. Dr. Enéas de Carvalho Aguiar, 419 , 05403-000 São Paulo - SP/ Brasil, Tel./Fax: (55 11) 3061-7553, - São Paulo - SP - Brazil
+E-mail: reeusp@usp.br
+rss_feed Stay informed of issues for this journal through your RSS reader
+SciELO - Scientific Electronic Library Online
+
+Rua Dr. Diogo de Faria, 1087 – 9º andar – Vila Clementino 04037-003 São Paulo/SP - Brasil
+E-mail: scielo@scielo.org
+
+Creative Common - by 4.0
+CAPES CNPq FAPESP BVS BIREME FAP-UNIFESP
+Open AccessRead our Open Access Statement

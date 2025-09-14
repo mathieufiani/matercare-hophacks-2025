@@ -1,0 +1,15 @@
+URL: https://www.scielo.br/j/reeusp/a/MH33CqQw6HRs7tsFDrwyWdr/?lang=en
+SOURCE: www.scielo.br
+SECTION: DISCUSSION: Limitations, CONCLUSION, and Data Availability
+START: 25152
+END: 26038
+
+The study’s limitations include low adherence among nurses, as the virtual environment remains an obstacle due to unstable internet connections, and the fact that the research was conducted only with nurses, without involving other professionals who assist postpartum women in PHC. However, the professionals who participated in the research were involved, interested in the topic and adopted intervention, which contributes to the quality of care in PHC.
+
+CONCLUSION
+In conclusion, the objective proposed by the study was achieved. The educational intervention on PPD had a positive impact, as it expanded knowledge, skills, practices and, above all, improved nurses’ attitudes, enabling more empathetic, humanized and technically based care.
+
+Considering the importance of the topic, we suggest that further studies are carried out and other strategies are developed to engage health professionals and identify the best interventions and ways to promote postpartum women’s mental health and well-being.
+
+DATA AVAILABILITY
+https://doi.org/10.48331/SCIELODATA.LQRF9N

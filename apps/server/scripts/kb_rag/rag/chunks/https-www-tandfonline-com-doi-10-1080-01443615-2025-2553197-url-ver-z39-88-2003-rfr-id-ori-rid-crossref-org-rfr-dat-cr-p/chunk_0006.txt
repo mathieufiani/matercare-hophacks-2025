@@ -1,0 +1,26 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Methods - Instruments
+START: 11076
+END: 13576
+
+Instruments
+Edinburgh Postnatal Depression Scale (EPDS)
+the ePDs is a well-established screening tool for PPD, consisting of 10 items rated on a four-point Likert
+scale from 0 to 3, with higher scores indicating more depressive symptoms (cox et al. 1987). Probable
+clinically relevant depressive symptoms were defined as a score of ≥13 on the ePDs, based on swedish
+validation studies (rubertsson et al. 2011). the ePDs has been translated into swedish and validated
+(Wickberg and Hwang 1996).
+The City Birth Trauma Scale (CityBiTS)
+the citybits is a 29-item self-report instrument assessing childbirth-related post-traumatic stress symp-
+toms based on DsM-5 criteria (Ayers et al. 2018). items are answered using yes/no or a four-point Likert
+scale from 0 to 3. Questions 3–22 cover four PtsD symptom clusters: re-experiencing, avoidance, hyper-
+arousal and negative cognition. to meet PP-PtsD criteria, specific symptom thresholds must be met in
+each cluster, with symptoms lasting at least four weeks. total scores range from 0 to 60, with higher
+scores indicating greater symptom severity. the swedish version was validated in 2022 (stén et al. 2023).
+4 H. GrUNDstrÖM et AL.
+Wijma Delivery Experience Questionnaire – version B (W-DEQ-B)
+PP-FOc was assessed with the W-DeQ-b, a 33-item scale on childbirth-related fear. Participants rate each state-
+ment on a six-point Likert scale from 0 (not at all) to 5 (extremely), with some items reverse-coded. total
+scores range from 0 to 165, with higher scores indicating greater fear of childbirth; a score of ≥85 typically
+denotes severe PP-FOc (O’connell et al. 2017). the W-DeQ-b has been validated in swedish (Wijma et al. 1998).

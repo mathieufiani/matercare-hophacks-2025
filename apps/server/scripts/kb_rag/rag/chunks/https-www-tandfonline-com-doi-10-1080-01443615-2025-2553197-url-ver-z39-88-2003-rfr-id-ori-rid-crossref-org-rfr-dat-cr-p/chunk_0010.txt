@@ -1,0 +1,46 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Discussion
+START: 22850
+END: 26732
+
+Discussion
+Overall, women with a history of trauma reported higher prevalence and mean scores of PPD and
+PP-Ptss across parity groups, while differences in PP-FOc were more pronounced among multiparous
+women. these findings provide the context for examining how trauma impacts postnatal mental health.
+Our results indicate that primiparous women with a history of trauma are at a comparatively higher risk
+for postpartum mental health problems, particularly PPD and PP-Ptss, relative to multiparas. this high-
+lights their heightened vulnerability during the transition to parenthood and the importance of targeted
+support for this group.
+the overall prevalence of PPD in this study was higher than reported in a previous Danish study
+(Johannsen et al. 2016) but in line with previous international studies (choi and sikkema 2016). Our
+PP-PtsD prevalence was consistent with rates from a meta-analysis in general populations (Horsch
+et al. 2024).
+Our results show that women with a trauma history more often met diagnostic criteria for PP-PtsD
+compared to non-exposed women, consistent with previous research (Horsch et al. 2024). this suggests
+that previous trauma history may be linked to elevated risk of general mental ill health, particularly for
+PP-PtsD and PPD following the current birth, possibly due to sensitisation from re-traumatisation. in the
+context of childbirth, re-traumatisation refers to the triggering or re-experiencing of distress from a pre-
+vious traumatic event – such as sexual abuse, violence or a prior traumatic birth – through aspects of
+the birth process or care environment. co-morbidity between untreated PtsD and depression is also
+high (radell et al. 2020, Liu et al. 2022), with evidence showing that treating PtsD has a beneficial effect
+on co-occurring depressive symptoms, while addressing depression alone does not reduce traumatic
+stress symptoms (radell et al. 2020). Given the association between trauma history and PPD, comorbid
+PtsD should be considered in planning postpartum interventions. For women who become pregnant
+again, a tailored birth plan may help minimise re-traumatisation risks. Further research is needed to
+develop effective interventions for this group, both postpartum and in preparation for future pregnancies.
+in the total study population, women with a history of trauma reported higher levels of PP-FOc than
+those without trauma; however, no significant difference was observed in the proportion reaching severe
+PP-FOc. this is interesting, as previous studies have shown trauma to be a risk factor for severe FOc
+during pregnancy (Grundström et al. 2023, Porthan et al. 2023). this may reflect the timing of assess-
+ment, as our measurements were taken postpartum, after the feared event had occurred and was no
+longer perceived as an immediate threat. Additionally, individuals with traumatic memories may use
+avoidance as a coping strategy, perhaps leading them to dismiss the idea of a future pregnancy and
+birth, which could help explain these results.
+Among primiparous women, there was a significant increase in the prevalence of PPD and PP-PtsD
+among those with a history of trauma. this suggests that these individuals may enter pregnancy and
+childbirth with poorer mental health, which could contribute to higher psychological distress, as sup-
+ported by previous research. However, prior trauma did not impact PP-FOc in first-time mothers. this
+may reflect that the childbirth experience itself plays a more critical role in shaping PP-FOc than histor-
+ical trauma, and even within high-risk groups, women may still have positive birth experiences
+(Grundström et al. 2021).

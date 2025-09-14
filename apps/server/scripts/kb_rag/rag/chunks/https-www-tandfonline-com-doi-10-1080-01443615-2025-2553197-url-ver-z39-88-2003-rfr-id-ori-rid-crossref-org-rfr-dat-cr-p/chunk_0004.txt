@@ -1,0 +1,28 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Introduction
+START: 6452
+END: 8325
+
+A growing body of research underscores the impact of past trauma on postnatal mental health, yet
+the mechanisms remain complex. the biopsychosocial model explains how biological, psychological and
+social factors interact to influence psychological distress (O’Hara and Wisner 2014). complementing this,
+stress sensitisation theory suggests that early life adversity can increase physiological and emotional sen-
+sitivity to later stressors, making traumatised individuals more vulnerable to mental health symptoms
+during childbirth and postpartum (McLaughlin et al. 2010). these frameworks guide our study by framing
+trauma history and sociodemographic risk factors as interacting elements that may increase vulnerability
+to postnatal mental health problems. therefore, we hypothesise that women with a history of trauma
+will have higher prevalence of postnatal mental health symptoms, and that sociodemographic risk fac-
+tors will further amplify this risk.
+Given the high prevalence of both traumatic experiences and childbirth among individuals of repro-
+ductive age, understanding the associations between trauma and mental health in the postnatal period
+is crucial. Although emerging evidence suggests that trauma history is associated with increased risk for
+postnatal psychological problems, research in this area remains limited. this study contributes important
+knowledge by examining how past trauma relate to specific postnatal mental health outcomes and how
+these associations may differ between primiparous and multiparous women or vary across sociodemo-
+graphic groups.
+the present study aimed to:
+(a) compare the prevalence of PPD, PP-PtsD, PP-Ptss and PP-FOc in women with and without a
+history of trauma; (b) examine the prevalence of trauma and mental health symptoms by parity
+(primiparous vs. multiparous); and (c) examine how trauma influence mental health in relation to
+sociodemographic characteristics.

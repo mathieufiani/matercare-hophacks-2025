@@ -1,0 +1,13 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Nursing Methods
+START: 5886
+END: 7924
+
+Inclusion and Exclusion Criteria
+Inclusion criteria were as follows: (1) primiparous women with singleton pregnancies delivered at ≥37 weeks’ gestation; (2) availability of complete postpartum medical records, including nursing logs and standardized psychological assessments at baseline and follow-ups; (3) absence of prepregnancy psychiatric diagnoses, such as major depressive disorder and generalized anxiety disorder; and (4) normal hearing function.
+
+Exclusion criteria were as follows: (1) multiple pregnancies; (2) incomplete postpartum follow-up data; (3) concurrent participation in psychotherapy or use of psychotropic medications during the study period; (4) severe obstetric complications, including eclampsia and postpartum hemorrhage requiring transfusion; (5) newborns with congenital anomalies or neonatal intensive care unit admission; (6) participants with poor adherence; and (7) hospital stay of less than 3 days.
+
+Nursing Methods
+The standard care group received standardized postpartum care. This included routine physiological monitoring of vital signs, uterine contraction patterns, and lactation progression during hospitalization. Nursing staff provided basic breastfeeding guidance, emphasizing proper latching techniques and feeding frequency, supplemented by written educational materials on newborn care. Pain management followed a stepwise approach: nonpharmacological strategies such as perineal cold therapy and positional adjustments were prioritized, and oral analgesics were administered only upon patient request for moderate-to-severe discomfort. Psychological support included brief daily check-ins addressing immediate physical recovery concerns, without emotional counseling or sensory interventions. Environmental controls maintained ambient noise levels below 55 dB in maternity wards, and no intentional auditory stimulation was provided. Adherence to the standard care protocol was systematically verified through electronic nursing documentation, including medication administration timestamps and daily progress notes. Postdischarge follow-up involved weekly 15- to 20-minute telephone check-ins by nurses to assess maternal and infant health and breastfeeding challenges, alongside with an outpatient visit at 6 weeks postpartum for maternal physical recovery assessments. No proactive mental health screening or counseling was provided unless participants spontaneously reported distress.

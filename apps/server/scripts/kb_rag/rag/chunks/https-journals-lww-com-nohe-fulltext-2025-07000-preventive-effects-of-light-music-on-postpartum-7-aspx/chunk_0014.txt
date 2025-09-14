@@ -1,0 +1,17 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Physiological Measurement
+START: 22691
+END: 23620
+
+Physiological Measurement
+At 3 days postpartum, no significant differences between groups were observed in cortisol or sAA levels (P > 0.05, Table 4). The music therapy group had significantly lower salivary cortisol and sAA levels at 6 weeks postpartum than the standard care group, suggesting that music therapy may alleviate postpartum anxiety through modulation of the neuroendocrine system.
+
+Table 4 - Comparison of Physiological Indicators between Two Groups.
+Group	Cortisol (µg/dL)	sAA (U/mL)
+3-Day	6-Week	3-Day	6-Week
+Standard care group (n = 58)	0.63 ± 0.12	0.49 ± 0.05*	65.34 ± 8.45	58.20 ± 7.80*
+Music therapy group (n = 62)	0.65 ± 0.09	0.34 ± 0.04*	64.87 ± 8.20	50.35 ± 7.15*
+t	1.037	18.20	0.309	5.752
+P	0.302	<0.001	0.758	<0.001
+sAA = salivary alpha-amylase; *Compared to 3-day postpartum, P < 0.05.

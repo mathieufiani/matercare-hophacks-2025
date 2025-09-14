@@ -1,0 +1,18 @@
+URL: https://womenshealth.gov/mental-health/mental-health-conditions/postpartum-depression
+SOURCE: womenshealth.gov
+SECTION: Sources
+START: 7489
+END: 8988
+
+Sources
+Centers for Disease Control and Prevention, Division of Reproductive Health. (2020). Pregnancy Risk Assessment Monitoring System (PRAMS). Washington, DC: Centers for Disease Control and Prevention. Retrieved from: https://www.cdc.gov/prams/prams-data/mch-indicators/states/pdf/2020/All-Sites-PRAMS-MCH-Indicators-508.pdf. Accessed on June 5th, 2023.
+Schiller, C.E., Meltzer-Brody, S., Rubinow, D.R. (2014). The Role of Reproductive Hormones in Postpartum Depression. CNS Spectrums; 20(1): 48–59.
+Sit, D.K., Wisner, K.L. (2009). The Identification of Postpartum Depression. Clinical Obstetrics and Gynecology; 52(3): 456–468.
+U.S. Preventive Services Task Force. (2016). Depression in Adults: Screening  .
+Alhusen, J.L., Alvarez, C. (2016). Perinatal depression. The Nurse Practitioner; 41(5): 50–55.
+U.S. Food and Drug Administration. (2019). FDA approves first treatment for post-partum depression.
+Stein, A., Perason, R.M., Goodman, S.H., Rapa, E., Rahman, A., McCallum, M., et al. (2014). Effects of perinatal mental disorders on the fetus and child. Lancet; 384(9956): 1800–1819.
+Surkan, P.J., Ettinger, A.K., Hock, R.S., Ahmed, S., Strobino, D.M., Minkovitz, C.S. (2014). Early maternal depressive symptoms and child growth trajectories: a longitudinal analysis of a nationally representative US birth cohort . BMC Pediatrics; 14: 185.
+Benton, P.M., Skouteris, H., Hayden, M. (2015). Does maternal psychopathology increase the risk of pre-schooler obesity? A systematic review  . Appetite; 87(1): 259–282.
+Korhonen, M., Luoma, I., Salmelin, R., Tamminen, T. (2014). Maternal depressive symptoms: Associations with adolescents' internalizing and externalizing problems and social competence. Nordic Journal of Psychiatry; 68(5): 323–332.
+To learn more about postpartum depression and access educational resources, visit our Talking Postpartum Depression campaign page.

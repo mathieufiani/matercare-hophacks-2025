@@ -1,0 +1,50 @@
+URL: https://findtreatment.gov/
+SOURCE: findtreatment.gov
+SECTION: footer
+START: 2685
+END: 3790
+
+Sign Up for SAMHSA Email Updates
+To sign up for updates or to access your subscriber preferences, please enter your contact information.
+
+Email Address
+Language Assistance
+Español
+繁體中文
+Tiếng Việt
+한국어
+Tagalog
+Русский
+العربية
+Kreyòl Ayisyen
+Français
+Polski
+Português
+Italiano
+Deutsch
+日本語
+فارسی
+English
+Home
+Site Map
+Viewers & Plugins
+Budget and Performance
+Accessibility
+Plain Language
+Privacy Policy
+Disclaimer
+Freedom of Information Act
+Nondiscrimination Notice
+EEO/No FEAR Act Data
+Office of the Inspector General
+U.S. Department Health & Human Services
+Vulnerability Disclosure Policy
+Have a question about government service? Contact USA.gov.
+
+SAMHSA's mission is to lead public health and service delivery efforts that promote mental health, prevent substance misuse, and provide treatments and supports to foster recovery while ensuring equitable access and better outcomes.
+
+5600 Fishers Lane • Rockville, MD 20857
+1-877-SAMHSA-7 (1-877-726-4727)
+
+SAMHSA logo
+HHS logo

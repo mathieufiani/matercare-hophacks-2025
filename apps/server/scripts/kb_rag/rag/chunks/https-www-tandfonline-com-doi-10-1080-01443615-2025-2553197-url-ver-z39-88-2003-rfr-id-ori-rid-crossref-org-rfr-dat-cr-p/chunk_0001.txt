@@ -1,0 +1,56 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Header & Abstract
+START: 0
+END: 2503
+
+Obstetrics
+Journal of obstetrics and GynaecoloGy
+2025, Vol. 45, no. 1, 2553197
+Associations between history of trauma and postnatal mental
+health problems – a cross-sectional study
+Hanna Grundströma,b , Anna Malmquistc , Malin thorselld and Katri Nieminena
+adepartment of obstetrics and Gynecology in norrköping, and department of biomedical and clinical sciences, linköping
+university, linköping, sweden; bdepartment of Health, Medicine and caring sciences, linköping university, linköping,
+sweden; cdepartment of behavioural sciences and learning, linköping university, linköping, sweden; ddepartment of
+obstetrics, capio s:t Görans sjukhus, stockholm, sweden
+ABSTRACT
+Background: Pregnancy and childbirth are vulnerable periods for women’s mental
+health, with common occurrences of postnatal depression (PPD), postpartum
+post-traumatic stress symptoms (PP-Ptss) and postnatal severe fear of childbirth
+(PP-FOc). While previous trauma is linked to higher rates of postpartum psychological
+difficulties, the mechanisms and variations by parity and sociodemographic factors
+remain poorly understood. the aim of this study was to compare the prevalence of PPD
+symptoms, postnatal post-traumatic stress disorder (PP-PtsD), PP-Ptss and PP-FOc
+between women with a history of trauma and those without. Additionally, the study
+aimed to analyse the prevalence of previous trauma and postnatal mental health
+problems in subgroups of primi- and multiparous women, and to investigate how
+trauma influenced mental health in relation to sociodemographic characteristics.
+Methods: this was a cross-sectional study including 619 women who had given birth
+at five maternity clinics in sweden. Data for the survey were collected online using
+validated instruments to measure PPD, PP-PtsD, PP-Ptss and PP-FOc. Data were
+analysed using chi-squared tests, independent t-tests and uni- and multivariable
+regression.
+Results: Women with a trauma history (n = 298) showed significantly higher rates of
+PPD (26% vs. 13%) and PtsD (5% vs. 2%) than those without a trauma history (n = 321).
+Previous trauma, age and parity significantly influenced postnatal outcomes, with
+trauma having the most substantial impact.
+Conclusions: A history of trauma is correlated to higher risk of postpartum mental
+health problems, while previous births may offer some protection, especially against
+PP-Ptss and PP-FOc. early identification and targeted support for women with trauma
+histories are recommended.
+PLAIN LANGUAGE SUMMARY
+this study looked at how traumatic experiences earlier in life may be correlated to a
+woman’s mental health after giving birth. We compared how common depression,
+stress and fear of childbirth were among women with and without a history of trauma.
+We also examined whether factors like age and if it was the woman’s first baby made
+a difference for mental health.
+the study included 619 women from five maternity clinics in sweden. After giving
+birth, the women answered online questions about how they were feeling mentally
+and emotionally. the results showed that women who had experienced trauma in the
+past were more likely to feel depressed or stressed after giving birth than those who
+had not.
+the study also found that younger women and first-time mothers were at higher risk
+for mental health problems after childbirth, especially if they had a history of trauma.
+these women may need extra care and support during pregnancy and after the baby
+is born.

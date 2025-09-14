@@ -1,0 +1,32 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Ethical Approval & Results
+START: 16111
+END: 18780
+
+Ethical approval
+the study was approved by the swedish ethical review Authority on 20 August 2021 (Dnr 2021-03968).
+it is registered in clinical trials, Nct06207916. All participants gave their informed consent to participate
+and the study was made in accordance with the Helsinki Declaration.
+Results
+Of the 2000 women invited to complete the survey, 619 (31%) participated in the study, with 298 (48%)
+reporting a history of trauma. A significant difference in parity was observed between the two study
+groups: 45% of participants with a history of trauma were primiparous, compared to 63% of those with
+no trauma history (p = <.001). Further, participants with a previous trauma exposure were significantly
+older, averaging 33.5 years (±4.6) compared to 32.1 years (±4.3) in the non-exposed group (p = <.001).
+No other sociodemographic variables showed significant differences between the groups. Among all
+multiparas, 108 (38%) reported a previous traumatic childbirth experience. the clinical and sociodemo-
+graphic characteristics are detailed in table 1.
+As shown in table 2, the three most common types of traumas reported by participants were previous
+traumatic childbirth, life-threatening illnesses and sexual abuse. some women had experienced multiple
+types of traumas; therefore, the percentages presented in table 2 are not cumulative.
+JOUrNAL OF Obstetrics AND GyNAecOLOGy 5
+table 3 shows the prevalence of postnatal mental health problems in the total sample and in those
+with and without a history of trauma. Among participants with a trauma history, significantly more
+women 19% (n = 57) reported depressive symptoms indicating PPD, compared to 8% (n = 26) in the
+non-trauma group (p = <.001). For PP-PtsD, 5% (n = 16) of trauma-exposed participants met the diag-
+nostic criteria, versus 2% (n = 7) of the non-exposed group (p = .036).
+the prevalence of severe PP-FOc was similar between groups: 13% (n = 38) among women with a
+history of trauma and 10% (n = 33) among those without trauma (p = .322). When analysing mean
+scores for PPD, PP-Ptss and PP-FOc as continuous variables, women with a trauma history had signifi-
+cantly higher mean scores across all three measures (p = <.001, p = <.001 and p = .042, respectively).

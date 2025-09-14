@@ -1,0 +1,10 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Observation Indicators
+START: 11182
+END: 12284
+
+Anxiety symptoms were measured using the Perinatal Anxiety Screening Scale (PASS).[18,19] The 31-item tool assesses four dimensions: acute anxiety and adjustment; general worry and specific fears; perfectionism, control, and trauma; and social anxiety. Each item is scored from 0 (no symptom) to 3 (severe symptom), which yields a total range of 0 to 93. A threshold score of 21 or higher identifies clinically relevant anxiety. The PASS has a Cronbach’s α of 0.95.
+
+Sleep Quality
+The Pittsburgh Sleep Quality Index (PSQI) evaluates sleep disturbances across seven domains: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medication, and daytime dysfunction.[20,21] Each domain is scored from 0 (no difficulty) to 3 (severe difficulty, which yields a total score ranging from 0 to 21. Total scores exceeding five indicate sleep problems. The PSQI has a Cronbach’s α of 0.82. All assessments were conducted in private settings by trained nurses who were not informed of participants’ group allocation, and electronic data entry was employed to minimize errors.

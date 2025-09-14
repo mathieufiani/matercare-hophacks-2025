@@ -1,0 +1,20 @@
+URL: https://www.scielo.br/j/reeusp/a/MH33CqQw6HRs7tsFDrwyWdr/?lang=en
+SOURCE: www.scielo.br
+SECTION: INTRODUCTION
+START: 2781
+END: 5590
+
+INTRODUCTION
+Postpartum Depression (PPD) is a public health problem that causes profound sadness in women during the postpartum period(1). Its symptoms appear within the first four weeks up to a year after delivery, and are often confused with common symptoms of Baby blues, a mild, transient condition that occurs in the first two weeks of the postpartum period due to the hormonal changes common during this period, which makes diagnosis challenging(1,2).
+
+The PPD, if not identified and treated, impacts postpartum woman’s health and well-being, leading to the development of potential behavioral, physical, and emotional problems in children(3). Furthermore, the condition triggers marital and family conflicts, as it is a period of greater emotional demand for women(4).
+
+Globally, PPD affects 17.22% of women, with developing countries accounting for the highest rates of the disease(5). In Brazil, the prevalence is 26%(6). However, the COVID-19 pandemic has resulted in an international increase in cases of PPD and anxiety in women. Studies show prevalence rates of up to 47.2% for depression and 40.8% for anxiety, in addition to increased rates of suicidal ideation(7,8).
+
+In this context, the World Health Organization (WHO) recommends the use, by health professionals, of validated scales for tracking the disease, such as the Edinburgh Postnatal Depression Scale (EPDS) or the Patient Health Questionnaire-9 (PHQ-9). Furthermore, WHO emphasizes the importance of addressing the emotional well-being of pregnant and postpartum women in all consultations(9).
+
+From this perspective, the Primary Health Care (PHC) nurse stands out among professionals in the management of PPD due to their proximity to the woman during the pregnancy-puerperal cycle, favoring the early detection of signs and symptoms indicative of the disease(10,11). However, moderate knowledge on the subject and other previously unknown gaps interfere with the early identification of the disease. Among these, limitations in skills stand out, such as: early identification of PPD, feelings of insecurity; gaps in technical-scientific knowledge, lack of skills and ability in the management and effective assistance of mothers’ mental health(12,13).
+
+Therefore, there is a clear need for professional education interventions on PPD for nurses, both due to the WHO recommendation and the need for interventions on the topic and the evidence of limited training for nurses. PPD reduces the quality of life of the postpartum woman and newborn, as it interferes with the desirable standard of mental health. Furthermore, studies show that women with PPD have a 6.5 times greater risk of suicide and a prevalence of approximately 7% to 10% of suicidal ideation in the postpartum period(14,15). That said, knowledge and application of correct conduct for identification and treatment improve the provision of care by nurses, to ensure continuous improvement in the development of competencies (knowledge, skills, and attitudes), and quality care and effectiveness of nursing practices.
+
+Therefore, this study aimed to evaluate the impact of an educational intervention on nursing care for women with signs of postpartum depression for primary health care nurses.

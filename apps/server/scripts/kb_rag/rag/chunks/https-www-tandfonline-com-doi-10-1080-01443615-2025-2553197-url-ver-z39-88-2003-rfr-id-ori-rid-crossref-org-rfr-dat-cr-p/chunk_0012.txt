@@ -1,0 +1,27 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Strengths and Weaknesses
+START: 30874
+END: 32669
+
+Strengths and weaknesses
+A strength of this study is its large sample size (n = 619), providing a robust basis for statistical analyses.
+the study was conducted across five maternity clinics in southern sweden, capturing a range of socio-
+demographic characteristics. Validated instruments were used to assess mental health outcomes, and the
+ePDs cut-off (≥13) was chosen based on validation in sweden. the prevalence of depressive symptoms
+may vary depending on the ePDs cut-off used; however, we modelled the scale as a continuous variable
+in regression analyses to reduce dependence on dichotomisation.
+the response rate was relatively low (31%), which may have introduced self-selection bias, potentially
+affecting both prevalence estimates and observed associations. Factors contributing to the low response
+rate include the sensitive nature of the study, postpartum recruitment, emotional discomfort, stigma,
+language difficulties, time constraints and perceived lack of relevance. Although a higher response rate
+might not have substantially altered the main associations, the findings may not fully generalise to the
+broader postpartum population. individuals experiencing trauma or psychological distress may have
+been more motivated to participate, potentially inflating prevalence estimates (Gavin et al. 2015).
+Other limitations include the cross-sectional design, which limits causal inference, and measurement
+constraints, such as the trauma assessment not capturing severity or timing, and reliance on self-reported
+symptoms, which may introduce recall or reporting bias. importantly, potential confounders – such as social
+support, ongoing stress and psychiatric history – were not controlled, which could influence observed asso-
+ciations. Future studies should include validated measures of social support and psychiatric history to bet-
+ter account for these factors. Finally, the high educational level of participants (80% university degree
+holders) may limit representativeness relative to the general population in sweden (statistics sweden 2021).

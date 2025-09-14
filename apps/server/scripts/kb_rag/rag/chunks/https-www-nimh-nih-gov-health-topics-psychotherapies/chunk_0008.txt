@@ -1,0 +1,17 @@
+URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+SOURCE: www.nimh.nih.gov
+SECTION: What are options for digital health care?
+START: 8564
+END: 9773
+
+The telephone, the internet, and mobile devices have created new opportunities for readily available and accessible treatment, including in areas where mental health professionals may not be physically available. Some of these approaches involve a therapist providing help at a distance. Others, such as web-based programs and mobile apps, are designed to provide immediate information and feedback in the absence of a therapist. 
+
+NIMH provides information on and examples of technology used for mental health treatment.
+
+How can I learn more about mental health care?
+Fact sheets
+Children and Mental Health: Is This Just a Stage? (also available en español): Provides information on children’s mental health, including how to assess your child’s behavior, when to seek help, first steps for parents, treatment options, and factors to consider when choosing a mental health professional
+My Mental Health: Do I Need Help? (also available en español): Provides information on assessing your mental health and determining if you need help, including examples of mild and severe symptoms, self-care activities, and options for professional help
+Tips for Talking With a Health Care Provider About Your Mental Health (also available en español): Offers five tips to help you talk to a health care provider about your mental health and get the most out of your visit
+Getting Mental Health Support Virtually (also available en español): Provides information about telehealth for mental health services, including potential benefits and drawbacks of this kind of care and factors to consider when looking for a provider
+Federal resources

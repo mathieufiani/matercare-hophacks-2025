@@ -1,0 +1,15 @@
+URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+SOURCE: www.nimh.nih.gov
+SECTION: How can I learn more about mental health care?
+START: 9773
+END: 10997
+
+Federal resources
+Agency for Healthcare Research and Quality : Find resources and information about health care, including data and tools to help you make informed health decisions.
+Substance Abuse and Mental Health Services Administration (SAMHSA): Learn about treatment options and ways to find treatment and access support.
+PubMed (National Library of Medicine) : Read in-depth research articles on therapies for mental health disorders by using the PubMed database of medical literature to search for articles by topic.
+Health hotlines
+988 Suicide & Crisis Lifeline : This lifeline provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week, across the United States. Call or text 988 to connect with a trained crisis counselor. Support is also available via live chat at 988lifeline.org . Para ayuda en español, llame al 988.
+Disaster Distress Helpline : People affected by any disaster or tragedy can call this helpline, sponsored by SAMHSA, to receive immediate counseling. Call or text 1-800-985-5990 to connect with a trained professional from the closest crisis counseling center within the network.
+SAMHSA’s National Helpline : This helpline provides free and confidential treatment referral to local facilities, support groups, and community-based organizations 24 hours a day, 7 days a week. Call 1-800-662-HELP (4357).
+Veterans Crisis Line : This crisis line is a free, confidential resource for veterans of all ages and circumstances. Dial 988 and press 1, text 838255, or chat online  to connect with 24/7 support.

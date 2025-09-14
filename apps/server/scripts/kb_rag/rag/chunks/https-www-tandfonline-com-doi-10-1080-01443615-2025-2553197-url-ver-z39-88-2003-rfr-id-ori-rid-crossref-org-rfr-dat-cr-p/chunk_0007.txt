@@ -1,0 +1,31 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Methods - Statistical Analyses
+START: 13577
+END: 16110
+
+Statistical analyses
+statistical analyses were performed using ibM sPss version 28.0 (Armonk, Ny). Occasional missing data
+in the instruments were replaced using mean imputation. this approach was chosen because the pro-
+portion of missing data was low, which helps minimise bias and preserve statistical power.
+the sample size was determined based on a sub study within iNtersect, which aimed to validate the
+citybits in a swedish context. For that validation study, a minimum of 250 participants was required to
+ensure sufficient statistical power for psychometric analyses. Given a low expected response rate, a total
+of 2000 participants were invited.
+Prevalence rates of PPD, PP-PtsD and severe PP-FOc were compared between trauma-exposed partic-
+ipants and those with no trauma history using chi-squared and Fisher’s exact tests. independent t-tests
+assessed differences between trauma-exposed and non-exposed groups on numeric postnatal mental
+health scales. statistical significance was set at p < .05.
+Univariate and multiple regression analyses examined the impact of previous trauma and sociodemo-
+graphic factors on postnatal illness. symptoms of PPD, Ptss and PP-FOc were used as continuous vari-
+ables to capture the full range of symptom severity. Determinants with significant p values in the
+univariate analysis were further analysed in multiple regression using an ‘enter’ model to identify inde-
+pendent factors influencing postnatal illness. the following nominal variables were dichotomised for the
+regression analyses: history of trauma (yes/no), previous childbirth (yes/no), higher education (university
+degree) (yes/no) and being born outside sweden (yes/no). Age was treated as a continuous variable. to
+assess multicollinearity among the independent variables included in the regression analyses, collinearity
+diagnostics were conducted. All variables demonstrated acceptable tolerance values (>0.1) and variance
+inflation factor (ViF) values below 5, indicating no significant multicollinearity, supporting the validity of
+the regression model (Kim 2019).
+the regression coefficients (β) indicate the average change in the outcome variable (PPD, PP-Ptss and
+PP-FOc score) for every 1-unit change in the determinant while keeping all the other determinants constant.

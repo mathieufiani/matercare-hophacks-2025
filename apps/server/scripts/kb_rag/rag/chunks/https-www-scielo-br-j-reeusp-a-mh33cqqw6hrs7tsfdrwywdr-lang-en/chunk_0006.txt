@@ -1,0 +1,11 @@
+URL: https://www.scielo.br/j/reeusp/a/MH33CqQw6HRs7tsFDrwyWdr/?lang=en
+SOURCE: www.scielo.br
+SECTION: METHOD: Data Analysis and Ethical Aspects
+START: 11848
+END: 12975
+
+DATA ANALYSIS AND TREATMENT
+Sociodemographic and professional data were stored in an Excel® spreadsheet, exported to the software Statistical Package for the Social Sciences (SPSS) (version 29), and a simple descriptive statistical analysis was performed. For the analysis of the statements, they were transcribed in full in a document from Microsoft Word®, and analyzed qualitatively, based on thematic content analysis, by Laurence Bardin, which is based on three stages: 1- pre-analysis, 2- exploration of the material, 3- treatment of the results obtained and interpretation(21). The statements were organized, coded, and categorized with the support of the ATLAS.ti software®, version 24.
+
+ETHICAL ASPECTS
+The study was approved by the Ethics and Research Committee, according to CAAE no. 72614123.7.0000.5154 and opinion 6.278.334/2023, and registered on the Brazilian Clinical Trials Registry (ReBEC) platform under the registration number: RBR-3hv3hhs. Furthermore, it was carried out in accordance with Resolution 466/2012, Resolution No. 510, of April 7, 2016; and Circular Letter No. 2/2021/CONEP/SECNS/MS. Those who agreed to participate in the study were asked to sign the FICF. To ensure anonymity, participants were identified by a numeric code (ENT 01, ENT 02, ENT 03...), where ENT means “Interviewee”, respecting name confidentiality.

@@ -1,0 +1,35 @@
+URL: https://www.tandfonline.com/doi/10.1080/01443615.2025.2553197?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#abstract
+SOURCE: www.tandfonline.com
+SECTION: Introduction
+START: 3706
+END: 6451
+
+2 H. GrUNDstrÖM et AL.
+Introduction
+Pregnancy and childbirth are psychologically vulnerable periods for many women (robertson-blackmore
+et al. 2013). After childbirth, increased physiological stress raises the risk of mental health problems,
+which can affect both mother and child. these challenges are associated with lower breastfeeding rates
+(cook et al. 2018, Garthus-Niegel et al. 2018), poorer infant development (Junge et al. 2017) and weak-
+ened mother–infant bonding (Kjerulff et al. 2021).
+the spectrum of postnatal mental health problems includes postnatal depression (PPD), postnatal
+post-traumatic stress disorder (PP-PtsD) and postnatal severe fear of childbirth (PP-FOc). PPD, the most
+recognised condition, is characterised by depressed mood and behavioural changes occurring within four
+weeks after childbirth according to DsM criteria (Liu et al. 2022). However, many studies use broader
+definitions that extend onset to within the first year postpartum. Prevalence rates vary worldwide
+between 4 and 64% (roshaidai Mohd Arifin et al. 2018). PPD symptoms are strong risk factors for PP-PtsD
+and vice versa (Liu et al. 2022). Postpartum post-traumatic stress symptoms (PP-Ptsss) – though not
+meeting full criteria for PtsD – affect 20–30% of women (Davies et al. 2008). PP-PtsD affects around 3%
+(Grekin and O’Hara 2014, Ayers et al. 2016, stén et al. 2023), and PP-FOc is present in 15–22% of post-
+partum women (Nilsson et al. 2018). these figures are not mutually exclusive, as symptom overlap and
+comorbidity between these conditions are common.
+A key contributor to mental health problems is previous trauma exposure, including childhood mal-
+treatment, which significantly increases vulnerability (Williams et al. 2016). interpersonal factors such as
+psychological and physical violence also elevate the risk (Pico-Alfonso et al. 2006). social support plays a
+critical protective role; thus, its absence is linked to poorer postnatal mental health outcomes (sumner
+et al. 2011, Horsch et al. 2024). Additionally, other stressful life events can compound these risks during
+the postpartum period (sit and Wisner 2009).
+the American Psychiatric Association (2013) defines trauma primarily as a life-threatening experi-
+ence; however, as van der Kolk (2000) emphasises, individual perceptions of what constitutes trauma
+are highly subjective. Notably, studies in Western countries report that between 71% and 81% of
+individuals experience at least one traumatic event in their lifetime (Frans et al. 2005, Knipscheer
+et al. 2020).

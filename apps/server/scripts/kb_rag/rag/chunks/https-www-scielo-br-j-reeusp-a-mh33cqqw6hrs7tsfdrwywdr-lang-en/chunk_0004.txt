@@ -1,0 +1,14 @@
+URL: https://www.scielo.br/j/reeusp/a/MH33CqQw6HRs7tsFDrwyWdr/?lang=en
+SOURCE: www.scielo.br
+SECTION: METHOD: Data Collection Procedures
+START: 8208
+END: 9912
+
+DATA COLLECTION PROCEDURES
+The nurses’ contact details were requested from the Health Education Section of the Municipal Health Department of the municipality, and the invitation letter was sent via telephone contact and/or Whatsapp®, during the months of September and October 2023. Data collection, before and after the intervention, was carried out remotely (via platform Google Meet) in the pre-intervention phases, between November and December 2023, and post-intervention, in April 2024, or until 30 days after the intervention.
+
+The interviews were conducted individually and the statements were collected on a separate audio recording device, and there was no recording via the platform. Finally, to avoid the risk of possible loss of confidentiality of the collected data, the participants were coded with the letter “E”, meaning “Interviewee” (Entrevistado in Portuguese), followed by an Arabic number referring to the sequence of interviews, from E01 to E14.
+
+For data collection, before and after, a semi-structured questionnaire prepared by the authors was used, the objective of which was to assess the knowledge, skills and attitudes of PHC nurses regarding nursing care for women with signs of PPD. The content of the data collection instruments and the educational intervention script were qualitatively validated by three judges(20) selected through analysis of the Lattes resumé, all nurses, doctors, specialists in nursing, mental health and/or women’s health.
+
+The instrument consisted of two parts, the first being based on “sociodemographic and professional” data: gender, age, time since graduation as a nurse, time working in primary care, specific courses, and/or specialization in mental health; and whether the municipal health department offered continuing education programs focused on nursing care for women with signs of postpartum depression. The second part consisted of guiding questions according to the adopted theoretical framework(17): “Today, what do you know about postpartum depression?; Today, how do you seek knowledge on the topic?; Today, how do you identify a woman who presents signs of postpartum depression?; Today, what nursing care do you consider important for the care of women with signs of postpartum depression?; Today, do you notice a movement towards care for women with signs of postpartum depression at the municipal level? Or is it something new, without professional engagement? Is there an opening for exposing the topic?”

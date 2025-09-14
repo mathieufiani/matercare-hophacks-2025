@@ -1,0 +1,22 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Psychological Outcomes
+START: 17872
+END: 19894
+
+Psychological Outcomes
+Psychological outcomes revealed significant intergroup differences over time [Table 2]. Baseline scores of EPDS and PASS did not differ between groups (P > 0.05). At 6 weeks postpartum, the music therapy group showed lower EPDS and PASS scores compared to the standard care group (P all < 0.05).
+
+Table 2 - Comparison of Psychological Indicators between Two Groups.
+Psychological Outcome	Group	3-Day Postpartum	6-Week Postpartum
+EPDS	Standard care group (n = 58)	7.82 ± 1.15	8.23 ± 1.20*
+Music therapy group (n = 62)	7.79 ± 1.08	6.45 ± 0.95
+t	0.147	9.039
+P	0.883	<0.001
+PASS	Standard care group (n = 58)	17.23 ± 1.80	18.57 ± 1.64*
+Music therapy group (n = 62)	17.15 ± 1.82	13.81 ± 1.33*
+t	0.242	17.51
+P	0.809	<0.001
+EPDS = Edinburgh Postnatal Depression Scale, PASS = Perinatal Self-Rating Anxiety Scale; *Compared to 3-day postpartum, P < 0.05.
+
+No significant intergroup differences were observed in the incidence of depression (EDPS score >13) and anxiety (PASS score >21) at 3 days postpartum (P > 0.05). At 6 weeks postpartum, the music therapy group demonstrated a depression incidence comparable to that of the standard care group (4.84% vs. 12.07%, χ2 = 2.051, P = 0.152). However, the music therapy group demonstrated a significantly lower anxiety incidence compared to the standard care group (6.45% vs. 20.69%, χ2 = 5.257, P = 0.022). These results highlight the progressive preventive efficacy of music therapy against postpartum psychological disorders.

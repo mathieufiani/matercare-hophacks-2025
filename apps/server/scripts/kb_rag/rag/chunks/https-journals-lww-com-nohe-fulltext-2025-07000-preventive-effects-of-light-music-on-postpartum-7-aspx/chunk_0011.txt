@@ -1,0 +1,32 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Results
+START: 15649
+END: 17871
+
+Results
+Baseline Characteristics
+Baseline characteristics, including maternal age, gestational age, neonatal birth weight, marital status, maternal educational levels, annual family income, delivery mode, and intrapartum analgesia usage, showed no significant differences between the standard care group and music therapy group (P > 0.05). These findings confirm the comparability of baseline profiles and support the validity of subsequent outcome comparisons [Table 1].
+
+Table 1 - Comparison of Baseline Characteristics between Two Groups.
+Item	Standard Care Group (n = 58)	Music Therapy Group (n = 62)	Statistic	P
+Maternal age (year)	28.34 ± 3.45	28.12 ± 3.28	t = 0.359	0.729
+Gestational weeks	39.12 ± 0.87	39.04 ± 0.92	t = 0.489	0.626
+Neonatal weight (g)	3285.34 ± 412.67	3312.19 ± 398.54	t = − 0.363	0.718
+Marriage status (n, %)			χ 2 = 0.284	0.594
+ Married	55 (94.83%)	60 (96.77%)		
+ Unmarried	3 (5.17%)	2 (3.23%)		
+Educational levels (n, %)			χ 2 = 0.044	0.833
+ ≤High school	15 (25.86%)	15 (24.19%)		
+ >High school	43 (74.14%)	47 (75.81%)		
+Family annual income (n, %)			χ 2 = 0.109	0.947
+ <80,000 CNY	10 (17.24%)	12 (19.35%)		
+ 80,000–150,000 CNY	32 (55.17%)	34 (54.84%)		
+ >150,000 CNY	16 (27.59%)	16 (25.81%)		
+Delivery mode (n, %)			χ 2 = 0.231	0.631
+ Vaginal	38 (65.52%)	38 (61.29%)		
+ Cesarean	20 (34.48%)	24 (38.71%)		
+Intrapartum analgesia (n, %)*			χ2 = 0.213	0.645
+ Pharmacological	22 (57.89%)	20 (52.63%)		
+ Nonpharmacological	16 (42.11%)	18 (47.37%)		
+CNY = Chinese Yuan.;*Intrapartum analgesia limited to vaginal deliveries

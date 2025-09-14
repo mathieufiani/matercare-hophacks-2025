@@ -1,0 +1,14 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Observation Indicators
+START: 9947
+END: 11181
+
+Observation Indicators
+Baseline Characteristics
+Baseline characteristics were systematically extracted from electronic medical records and structured admission questionnaires. Key variables included maternal age at delivery, gestational age, and neonatal birth weight. Delivery mode (vaginal or cesarean) and intrapartum analgesia usage (pharmacological/nonpharmacological) were documented through operative notes. Socioeconomic factors included educational levels (categorized as ≤high school and >high school), marital status, and annual family income. All data underwent dual-entry verification by independent researchers to ensure accuracy, and inconsistent records were cross-checked against nursing shift documentation.
+
+Psychological Outcomes
+Psychological outcomes were assessed at two time points: baseline (3-day postpartum) and 6-week postpartum.
+
+The EPDS was used to evaluate depressive symptoms.[16,17] This 10-item questionnaire measures depressive mood, anxiety, and self-blame tendencies. Each item is scored from 0 to 3, which yields a total score ranging from 0 to 30. A score of 13 or higher indicates a high risk of clinical depression. The Cronbach’s α for the EPDS is 0.88.

@@ -1,0 +1,14 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Abstract
+START: 444
+END: 1673
+
+Abstract
+Objective: This paper aims to evaluate the preventive effects of light music on postpartum anxiety and depression in primiparous women. Methods: This retrospective study analyzed 120 primiparous women admitted to our hospital from June 2022 to June 2024. Participants were divided into two groups based on the postpartum nursing methods they received: those who received standard care (standard care group: n = 58) and those who received light music therapy (music therapy group: n = 62). Outcomes included Edinburgh Postnatal Depression Scale (EPDS), Perinatal Anxiety Screening Scale (PASS), Pittsburgh Sleep Quality Index (PSQI), salivary cortisol, salivary alpha-amylase (sAA), exclusive breastfeeding (EBF) rates, and World Health Organization Quality of Life Brief Version (WHOQOL-BREF) scale scores at 3-day and 6-week postpartum. Results: At 6 weeks postpartum, the music therapy group showed significantly lower scores of EPDS, PASS, and PSQI compared to the standard care group (P < 0.05). Salivary cortisol and sAA levels were also significantly reduced (P < 0.05). Additionally, the music therapy group exhibited higher EBF rates (79.03% vs. 53.45%, P < 0.05) and significantly improved scores across all domains of WHOQOL-BREF (P < 0.05). Conclusion Light music therapy significantly alleviates postpartum psychological distress, reduces physiological stress, and improves breastfeeding rate and quality of life, which supports its clinical adoption.
+
+Key messages:
+(1) Light music therapy significantly reduces postpartum anxiety and depressive symptoms in primiparous women
+(2) Music therapy lowers physiological stress markers, including salivary cortisol and alpha-amylase
+(3) Music therapy significantly improves exclusive breastfeeding rates and sleep quality compared with standard care
+(4) Music therapy can improve maternal quality of life across physical, psychological, social, and environmental domains

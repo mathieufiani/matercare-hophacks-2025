@@ -1,0 +1,8 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Statistical Analysis
+START: 14756
+END: 15648
+
+Statistical Analysis
+Data were analyzed using IBM SPSS Statistics 24.0 (IBM Corp., Armonk, NY, USA), and tables were created using Microsoft Excel 2021 (Microsoft Corporation, Redmond, WA). Continuous variables were assessed for normality using the Shapiro–Wilk test. Normally distributed data were expressed as mean ± SD and compared between groups using independent t-tests, while intragroup comparisons at different time point were evaluated using paired t-test. Categorical variables, presented as frequencies (percentages), were compared using χ2 tests or Fisher’s exact tests when expected counts were <5. A P value <0.05 was defined statistical significance.

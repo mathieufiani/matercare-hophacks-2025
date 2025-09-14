@@ -1,0 +1,20 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Breastfeeding Efficacy and Quality of Life
+START: 23621
+END: 25776
+
+Breastfeeding Efficacy and Quality of Life
+At 6 weeks postpartum, the music therapy group had a higher EBF rate than the standard care group (79.03% vs. 53.45%, P = 0.003). Baseline (3-day) WHOQOL-BREF scores showed no intergroup differences across all domains (P > 0.05). At 6 weeks postpartum, the music group demonstrated significantly higher scores in physical health, psychological well-being, social relationship, and environmental factors (P all <0.05, Table 5). These findings suggest that music therapy can deliver clinically significant benefits that extend beyond symptom reduction to enhance mother–infant bonding and overall postpartum experience.
+
+Table 5 - Comparison of World Health Organization Quality of Life Brief Version Score.
+WHOQOL-BREF Domain	Time Point	Standard Care Group (n = 58)	Music Therapy Group (n = 62)	t	P
+Physical health	3-Day	61.37 ± 7.42	62.09 ± 7.33	0.535	0.594
+6-Week	65.28 ± 6.77*	73.64 ± 6.52*	6.890	<0.001
+Psychological well-being	3-Day	58.31 ± 8.07	58.96 ± 7.89	0.446	0.656
+6-Week	63.42 ± 7.18*	76.38 ± 6.83*	10.13	<0.001
+Social relationships	3-Day	64.75 ± 6.71	65.23 ± 6.55	0.397	0.693
+6-Week	68.33 ± 6.24*	77.89 ± 5.93*	8.605	<0.001
+Environmental factors	3-Day	59.51 ± 7.28	60.17 ± 7.12	0.502	0.617
+6-Week	63.15 ± 6.47*	71.22 ± 6.08*	7.044	<0.001
+WHOQOL-BREF = World Health Organization Quality of Life scale; *Compared to 3-day postpartum, P < 0.05.

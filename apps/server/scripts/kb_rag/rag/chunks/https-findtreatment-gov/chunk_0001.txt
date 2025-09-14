@@ -1,0 +1,23 @@
+URL: https://findtreatment.gov/
+SOURCE: findtreatment.gov
+SECTION: header
+START: 0
+END: 425
+
+Skip to Content
+HHS eagleU.S. Department of Health & Human Services
+
+En Español
+
+Search SAMHSA.gov
+Home
+Search For Treatment
+State Agencies
+Facility Registration
+FAQs
+Help
+About
+Contact Us
+
+Millions of Americans have mental and substance use disorders. Find treatment here.
+Welcome to FindTreatment.gov, the confidential and anonymous resource for persons seeking treatment for mental and substance use disorders in the United States and its territories.

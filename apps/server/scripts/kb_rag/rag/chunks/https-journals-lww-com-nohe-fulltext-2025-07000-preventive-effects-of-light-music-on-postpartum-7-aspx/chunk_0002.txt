@@ -1,0 +1,8 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Introduction
+START: 1674
+END: 2656
+
+Introduction
+Postpartum anxiety and depression are prevalent among first-time mothers, driven by hormonal fluctuations, physiological recovery challenges, and psychosocial stressors such as role adaptation and inadequate social support.[1,2] Primiparous women face heightened vulnerability due to inexperience in infant care and unmet expectations of motherhood.[3] These psychological disturbances impair mother–infant bonding, reduce breastfeeding rates, and elevate the risk of long-term cognitive–emotional deficits in offspring.[4] Despite clinical urgency, current interventions such as pharmacotherapy and cognitive–behavioral therapy face several limitations.[5] Pharmacological approaches show limited efficacy with concerning side-effect profiles, and a recent network meta-analysis of 11 studies revealed that only estradiol and brexanolone were more effective than placebo, while the efficacy of other antidepressants was limited.[6] However, brexanolone had a higher early dropout rate than most other antidepressants, suggesting that its side effects may be more concerning.[6] Antidepressants raise concerns about lactation safety, whereas traditional psychotherapy is hindered by limited accessibility.[7]

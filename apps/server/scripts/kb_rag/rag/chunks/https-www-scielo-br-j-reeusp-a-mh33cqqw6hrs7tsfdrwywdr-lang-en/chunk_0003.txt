@@ -1,0 +1,23 @@
+URL: https://www.scielo.br/j/reeusp/a/MH33CqQw6HRs7tsFDrwyWdr/?lang=en
+SOURCE: www.scielo.br
+SECTION: METHOD: Design, Participants, and Sampling
+START: 5592
+END: 8206
+
+METHOD
+DESINGN OF STUDY
+This is a quasi-experimental, before-after study(16), with analysis using a qualitative method of data in the pre- and post-intervention phase and adoption of the theoretical framework in light of Philippe Perrenoud(17). Furthermore, the research was registered and approved on the REBEC Platform (described in the ethical aspects phase). This design was chosen to standardize the intervention carried out. Furthermore, this was previously validated by judges to ensure rigor and methodological quality and respond to the proposed objective (described in the data collection procedures phase). Although the study had a quasi-experimental design, the evaluations before and after the intervention were qualitative in nature, as the aim was to achieve a broad and in-depth understanding of the knowledge obtained by the participants according to the theory(17) adopted. Furthermore, using qualitative analysis to evaluate the effect of the intervention allowed for a holistic view of the phenomenon(18). Qualitative research is recommended when the aim is to understand specific issues that require more detailed and descriptive analysis(19).
+
+Moreover, the study followed the guidelines of the Consolidated criteria for reporting qualitative research (COREQ).
+
+LOCAL
+The study was carried out in the primary health care units of an inland municipality in the state of Minas Gerais, Brazil, a health care reference in the health macro-region of Triângulo do Sul, Minas Gerais, with 53 Family Health Strategy teams distributed across 29 units, with the PHC being the gateway to the Brazilian Public Health System (SUS) and postpartum monitoring.
+
+POPULATION
+The total population corresponded to 96 PHC nurses who were working in the municipality during the period of this study, according to the quantity made available by the municipal health department.
+
+SELECTION CRITERIA
+The inclusion criteria were: nurses who worked in the Primary Health Care network and who provided care to postpartum women. Exclusion criteria were: being on vacation or away from work during the research; those who failed to participate in any of the educational intervention meetings; or who, despite signing the Free and Informed Consent Form (FICF), failed to respond to any of the interviews (before or after the intervention).
+
+SAMPLE DEFINITION
+The sample was intentionally and non-probabilistic defined. Of the 96 PHC nurses, 32 expressed interest in participating in the research; of these, 28 signed the FICF, the Free Audio Recording Consent Form, answered the semi-structured questionnaire and the guiding questions (pre-intervention interview). Of the 28 professionals, 6 were part of the pilot group (PG) and 22 were part of the intervention group (IG). Of the 22 IG participants, 1 nurse was absent due to sick leave; 6 missed at least one day of the intervention; and 1 did not participate in the post-intervention interview. Thus, the final sample consisted of 14 professionals.

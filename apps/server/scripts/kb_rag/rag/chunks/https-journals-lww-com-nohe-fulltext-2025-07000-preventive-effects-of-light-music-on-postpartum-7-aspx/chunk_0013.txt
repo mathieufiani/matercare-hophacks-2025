@@ -1,0 +1,44 @@
+URL: https://journals.lww.com/nohe/fulltext/2025/07000/preventive_effects_of_light_music_on_postpartum.7.aspx
+SOURCE: journals.lww.com
+SECTION: Sleep Quality
+START: 19895
+END: 22690
+
+Sleep Quality
+The PSQI scores at 3 days postpartum did not differ between groups (P > 0.05). At 6 weeks postpartum, the music therapy group demonstrated significant improvements across all seven sleep dimensions (P all < 0.05). These findings indicate that music therapy comprehensively enhances various aspects of sleep quality in postpartum women and may help alleviate postpartum depression and anxiety [Table 3].
+
+Table 3 - Comparison of Sleep Quality between Two Groups.
+PSQI Domain	Group	3-Day Postpartum	6-Week Postpartum
+Total score	Standard care group (n = 58)	10.45 ± 1.88	9.26 ± 1.75*
+Music therapy group (n = 62)	10.20 ± 1.92	8.02 ± 1.69*
+t	0.720	3.948
+P	0.473	<0.001
+Subjective sleep quality	Standard care group (n = 58)	1.85 ± 0.48	1.67 ± 0.42*
+Music therapy group (n = 62)	1.82 ± 0.50	1.23 ± 0.35*
+t	0.335	6.250
+P	0.739	<0.001
+Sleep latency	Standard care group (n = 58)	1.65 ± 0.52	1.48 ± 0.44*
+Music therapy group (n = 62)	1.62 ± 0.51	1.16 ± 0.38*
+t	0.319	4.272
+P	0.750	<0.001
+Sleep duration	Standard care group (n = 58)	1.54 ± 0.47	1.34 ± 0.42*
+Music therapy group (n = 62)	1.56 ± 0.45	1.12 ± 0.35*
+t	0.238	3.125
+P	0.812	0.002
+Habitual sleep efficiency	Standard care group (n = 58)	1.44 ± 0.38	1.29 ± 0.32*
+Music therapy group (n = 62)	1.42 ± 0.36	1.18 ± 0.28*
+t	0.296	2.007
+P	0.767	0.047
+Sleep disturbances	Standard care group (n = 58)	1.58 ± 0.44	1.43 ± 0.39*
+Music therapy group (n = 62)	1.55 ± 0.42	1.21 ± 0.32*
+t	0.382	3.387
+P	0.703	0.001
+Use of sleep medication	Standard care group (n = 58)	0.72 ± 0.26	0.64 ± 0.14*
+Music therapy group (n = 62)	0.70 ± 0.25	0.59 ± 0.18*
+t	0.430	1.690
+P	0.668	0.094
+Daytime dysfunction	Standard care group (n = 58)	1.67 ± 0.45	1.34 ± 0.38*
+Music therapy group (n = 62)	1.65 ± 0.43	0.86 ± 0.30*
+t	0.240	7.706
+P	0.803	<0.001
+PSQI = Pittsburgh Sleep Quality Index; * Compared to 3-day postpartum, P < 0.05.
