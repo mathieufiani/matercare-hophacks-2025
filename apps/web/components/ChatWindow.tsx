@@ -10,6 +10,7 @@ import { getCurrentTimestamp } from "@/lib/time"
 import { useTTS } from "@/hooks/use-tts"
 import { Heart, Volume2, VolumeX } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { getUserIdFromToken } from "@/lib/jwt"
 
 interface Message {
   id: string
@@ -115,12 +116,10 @@ export function ChatWindow() {
     setMessages((prev) => [...prev, userMessage])
 
     const messageData: ChatMessageType = {
-      message_id: `msg-${Date.now()}`,
-      user_id: "user-1", // This would come from auth context
+      user_id: sessionStorage.getItem("user_id") || "", // This would come from auth context
       text: content,
-      mood_label: mood?.label as any,
-      mood_conf: mood?.confidence,
-      lang: "en",
+      // mood_label: mood?.label as any,
+      // mood_conf: mood?.confidence,
       client_time: getCurrentTimestamp(),
       consents: {
         affect_assist: true,

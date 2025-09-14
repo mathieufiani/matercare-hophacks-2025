@@ -5,7 +5,8 @@ import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Heart, MessageCircle, Shield, Sparkles, Star, Users, Award, ArrowRight } from "lucide-react"
 import Link from "next/link"
-import { useRef } from "react"
+import { useRef, useEffect } from "react"
+import { useRouter } from "next/navigation"
 
 export default function LandingPage() {
   const containerRef = useRef<HTMLDivElement>(null)
@@ -13,11 +14,21 @@ export default function LandingPage() {
     target: containerRef,
     offset: ["start start", "end start"],
   })
+  
+  const router = useRouter()
 
   const heroY = useTransform(scrollYProgress, [0, 1], ["0%", "50%"])
   const heroOpacity = useTransform(scrollYProgress, [0, 0.5], [1, 0])
   const particlesY = useTransform(scrollYProgress, [0, 1], ["0%", "30%"])
   const floatingElementsY = useTransform(scrollYProgress, [0, 1], ["0%", "80%"])
+
+    // 🔑 Redirect if logged in
+    useEffect(() => {
+      const accessToken = sessionStorage.getItem("access_token")
+      if (accessToken) {
+        router.replace("/app") // replace so back button won’t return to landing
+      }
+    }, [router])
 
   return (
     <div ref={containerRef} className="min-h-screen">

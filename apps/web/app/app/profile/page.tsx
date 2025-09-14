@@ -7,9 +7,23 @@ import { Label } from "@/components/ui/label"
 import { User, Settings, Shield, Moon, Sun, LogOut } from "lucide-react"
 import { motion } from "framer-motion"
 import { useTheme } from "next-themes"
+import { authAPI } from "@/lib/api"
+import { useRouter } from "next/navigation"
 
 export default function ProfilePage() {
   const { theme, setTheme } = useTheme()
+  const router = useRouter()
+
+  const handleSignOut = async () => {
+    try {
+      await authAPI.signOut()
+    } catch (err) {
+      console.warn("Logout API failed, clearing session anyway.", err)
+    } finally {
+      sessionStorage.clear()
+      router.push("/auth/sign-in")
+    }
+  }
 
   return (
     <div className="container mx-auto px-4 py-8 max-w-2xl">
@@ -78,7 +92,7 @@ export default function ProfilePage() {
           {/* Account Actions */}
           <Card className="glass">
             <CardContent className="pt-6">
-              <Button variant="outline" className="w-full glass bg-transparent">
+              <Button onClick={handleSignOut} variant="outline" className="w-full glass bg-transparent">
                 <LogOut className="w-4 h-4 mr-2" />
                 Sign Out
               </Button>
