@@ -27,9 +27,9 @@ export default function SignUpPage() {
   const router = useRouter()
 
   const passwordRequirements = [
-    { text: "At least 8 characters", met: password.length >= 8 },
-    { text: "Contains uppercase letter", met: /[A-Z]/.test(password) },
-    { text: "Contains lowercase letter", met: /[a-z]/.test(password) },
+  //  { text: "At least 8 characters", met: password.length >= 8 },
+  //  { text: "Contains uppercase letter", met: /[A-Z]/.test(password) },
+  //  { text: "Contains lowercase letter", met: /[a-z]/.test(password) },
     { text: "Contains number", met: /\d/.test(password) },
   ]
 
@@ -56,10 +56,12 @@ export default function SignUpPage() {
 
     try {
       const result = await authAPI.signUp(email, password)
-      if (result.success) {
-        router.push("/app/onboarding")
+      console.log('result --> ', result)
+      if (result.status === 201) {
+        router.push("/app")
       }
     } catch (err) {
+      // TODO: Add error message from backend instead of string
       setError("Failed to create account. Please try again.")
     } finally {
       setIsLoading(false)

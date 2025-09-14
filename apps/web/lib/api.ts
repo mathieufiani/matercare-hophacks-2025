@@ -1,5 +1,14 @@
-const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "https://api.matercare.com"
+import axios from "axios"
 
+// const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "http://127.0.0.1:5000"
+const API_BASE = "http://127.0.0.1:5000"
+
+export const api = axios.create({
+  baseURL: API_BASE,
+  headers: {
+    "Content-Type": "application/json",
+  },
+})
 export interface ChatMessage {
   message_id: string
   user_id: string
@@ -56,13 +65,53 @@ export const chatAPI = {
 
 export const authAPI = {
   async signIn(email: string, password: string) {
-    // Placeholder for authentication
-    return { success: true, user: { id: "user-1", email } }
+    try {
+      const response = await api.post("/api/auth/login", {
+        email,
+        password,
+      })
+
+      // The backend returns:
+      // {
+      //   message: "Login successful",
+      //   user: { user_id, email },
+      //   access_token,
+      //   refresh_token,
+      //   refresh_expires_at,
+      //   session_id
+      // }
+
+      return {
+        success: true,
+        status: response.status,
+        data: response.data,
+      }
+    } catch (error: any) {
+      if (error.response) {
+        throw new Error(error.response.data.error || "Login failed")
+      }
+      throw new Error("Network error during login")
+    }
   },
 
   async signUp(email: string, password: string) {
-    // Placeholder for registration
-    return { success: true, user: { id: "user-1", email } }
+    const response = await fetch(`${API_BASE}/api/auth/register`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ email, password }),
+    })
+
+    if (!response.ok) {
+      const error = await response.json().catch(() => ({}))
+      throw new Error(error.message || "Failed to register")
+    }
+
+    return {
+      status: response.status, 
+      json: response.json()
+    }
   },
 
   async forgotPassword(email: string) {
