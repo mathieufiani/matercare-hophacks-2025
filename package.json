@@ -29,6 +29,7 @@
     "styled-jsx": "^5.1.1"
   },
   "dependencies": {
-    "jwt-decode": "^4.0.0"
+    "jwt-decode": "^4.0.0",
+    "react-webcam": "^7.2.0"
   }
 }

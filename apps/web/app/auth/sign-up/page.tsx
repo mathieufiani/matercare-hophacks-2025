@@ -56,8 +56,7 @@ export default function SignUpPage() {
 
     try {
       const result = await authAPI.signUp(email, password)
-      console.log('result --> ', result)
-      if (result.status === 201) {
+      if (result.success) {
         router.push("/app")
       }
     } catch (err) {
